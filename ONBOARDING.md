@@ -1,6 +1,5 @@
 # Onboarding to FarmData2 #
 
-PHIL SANDS WAS HERE. MWAHAHAHA!
 
 This document provides an overview of the technologies used in FarmData2, describes the roles that they play and provides resources for learning the essentials of each.
 
